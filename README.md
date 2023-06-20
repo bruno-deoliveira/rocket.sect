@@ -39,7 +39,7 @@ $ git clone https://github.com/bruno-deoliveira/rocket.sect.git
 $ cd rocket.sect
 ```
 ## 📝 Licença
-Esse projeto está sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença [MIT](https://github.com/bruno-deoliveira/rocket.sect/blob/main/LICENSE). Veja o arquivo LICENSE para mais detalhes.
 
 ## 📞 Suporte
 Para suporte, mande um e-mail para brunoalmeida0805@gmail.com Grato!
